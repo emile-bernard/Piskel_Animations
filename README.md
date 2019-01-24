@@ -10,7 +10,6 @@ Animations packs made with Piskel.
 
 ### Programmer Pack
 ![ProgrammerFemaleGif](Documentation/Preview/ProgrammerPack/ProgrammerFemale.gif?raw=true "ProgrammerFemaleGif")
-
 ![ProgrammerMaleGif](Documentation/Preview/ProgrammerPack/ProgrammerMale.gif?raw=true "ProgrammerMaleGif")
 
 ## Built With
