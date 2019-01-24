@@ -18,3 +18,9 @@ Animations packs made with Piskel.
 
 ## Built With
 - [Piskel App](https://www.piskelapp.com/)
+
+## Future Animation Ideas
+- [Ideas](IDEAS.md)
+
+## Links
+- []()
