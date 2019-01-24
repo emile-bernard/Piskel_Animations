@@ -6,7 +6,7 @@ Animations packs made with Piskel.
 ## Previews
 
 ### Lama Pack
-![LamaGif](Documentation/Preview/LamaPack/Lama.gif?raw=true "LamaGif")
+![LamaGif](Documentation/Preview/Lama%20Pack/Lama.gif?raw=true "LamaGif")
 
 ### Programmer Pack
 ![ProgrammerFemaleGif](Documentation/Preview/Programmer%20Pack/ProgrammerFemale.gif?raw=true "ProgrammerFemaleGif")
