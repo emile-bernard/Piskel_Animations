@@ -14,8 +14,7 @@ Animations packs made with Piskel.
 ![ProgrammerMaleGif](Documentation/Preview/Programmer%20Pack/ProgrammerMale.gif?raw=true "ProgrammerMaleGif")
 
 ### Science Pack
-
-
+![AtomGif](Documentation/Preview/Science%20Pack/atom.gif?raw=true "AtomGif")
 
 ## Built With
 - [Piskel App](https://www.piskelapp.com/)
