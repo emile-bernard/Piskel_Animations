@@ -1,11 +1,17 @@
 # Piskel_Animations
 
 ## Description
-Animations made with Piskel.
+Animations packs made with Piskel.
 
 ## Previews
-![LamaGif](Documentation/Preview/Lama.gif?raw=true "LamaGif")
-![ProgrammerGif](Documentation/Preview/Programmer.gif?raw=true "ProgrammerGif")
+
+### Lama Pack
+![LamaGif](Documentation/Preview/Lama Pack/Lama.gif?raw=true "LamaGif")
+
+### Programmer Pack
+![ProgrammerFemaleGif](Documentation/Preview/Programmer Pack/ProgrammerFemale.gif?raw=true "ProgrammerFemaleGif")
+
+![ProgrammerMaleGif](Documentation/Preview/Programmer Pack/ProgrammerMale.gif?raw=true "ProgrammerMaleGif")
 
 ## Built With
 - [Piskel App](https://www.piskelapp.com/)
